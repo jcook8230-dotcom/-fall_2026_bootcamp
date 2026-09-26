@@ -1,6 +1,6 @@
 print("hello,world")
-chmod +x fight_game.py
-python3 fight_game
+# chmod +x fight_game.py
+# python3 fight_game
 def attack_enemy(enemy_health, attack_power):
     new_enemy_health = enemy_health - attack_power
     return new_enemy_health

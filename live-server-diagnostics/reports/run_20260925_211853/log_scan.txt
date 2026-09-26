@@ -1,0 +1,1 @@
+./main.sh: line 27: python3: command not found
