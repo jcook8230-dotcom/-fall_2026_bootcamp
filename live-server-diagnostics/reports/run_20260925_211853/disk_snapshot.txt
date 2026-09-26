@@ -1,0 +1,13 @@
+DISK SNAPSHOT
+=============
+Target path: /c/Users/jcook/Documents/TheoWAF/fall_2026_bootcamp/live-server-diagnostics
+
+Filesystem usage:
+Filesystem      Size  Used Avail Use% Mounted on
+C:              476G   74G  402G  16% /c
+
+Directory size:
+45K	/c/Users/jcook/Documents/TheoWAF/fall_2026_bootcamp/live-server-diagnostics
+
+File count:
+2
